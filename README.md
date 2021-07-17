@@ -7,4 +7,8 @@ This library enables you to parse and format RESP values. This makes is possible
 Copyright (c) 2021, TauTerra, LLC
 All rights reserved.
 
-* LabVIEW is a trademark of National Instruments. Neither TauTerra LLC, nor any software programs or other goods or services offered by TauTerra LLC, are affiliated with, endorsed by, or sponsored by National Instruments.
+```
+* LabVIEW is a trademark of National Instruments. Neither TauTerra LLC, nor 
+any software programs or other goods or services offered by TauTerra LLC, 
+are affiliated with, endorsed by, or sponsored by National Instruments.
+```
