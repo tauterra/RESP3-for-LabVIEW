@@ -10,7 +10,9 @@
 	<Item Name="subVIs" Type="Folder">
 		<Item Name="check_value.vim" Type="VI" URL="../subVIs/check_value.vim"/>
 	</Item>
+	<Item Name="LICENSE" Type="Document" URL="../LICENSE"/>
 	<Item Name="Run Tests.vi" Type="VI" URL="../Run Tests.vi"/>
+	<Item Name="test Format RESP3.vi" Type="VI" URL="../test Format RESP3.vi"/>
 	<Item Name="test Parse Attributes.vi" Type="VI" URL="../test Parse Attributes.vi"/>
 	<Item Name="test Parse Boolean.vi" Type="VI" URL="../test Parse Boolean.vi"/>
 	<Item Name="test Parse Bulk Error.vi" Type="VI" URL="../test Parse Bulk Error.vi"/>
